@@ -39,7 +39,7 @@ The dataset contains the following features:
 ## 🚀 Models Implemented
 | Model                     | R² Score | RMSE |
 |--------------------------|----------|------|
-| **Linear Regression**    | 0.74     | 4272 | 
+| **Linear Regression**    | 0.742    | 4272 | 
 | **Random Forest**        | 0.930    | 1597 | 
 | **XGBoost**              | 0.933    | 1464 | 
 
